@@ -1,0 +1,5 @@
+The general approuch is described in the simulator.cc (in the main function).
+
+The job.h/cc contain structures to describe jobs and a job pool.
+The resource.h/cc contain structures to describe resources and a resource pool.
+The scheduler.h/cc contain scheduling algorithms.
